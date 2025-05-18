@@ -1,0 +1,17 @@
+{
+  "script_1": {
+    "download_path": "~/Downloads",
+    "save_path": "C:\\Users\\jyarrams\\OneDrive - Nutreco Nederland B.V\\Desktop\\Testing\\Iot_security\\Iot_security_1.0.0"
+  },
+  "script_2": {
+    "input_path": "C:\\Users\\jyarrams\\OneDrive - Nutreco Nederland B.V\\Desktop\\Testing\\Iot_security\\Iot_security_1.0.0\\Tracking_online_Devices.xlsx",
+    "output_path": "C:\\Users\\jyarrams\\OneDrive - Nutreco Nederland B.V\\Desktop\\Testing\\Iot_security\\Iot_security_1.0.0\\Script_Execution_Device_List.xlsx",
+    "device_count": 150,
+    "batch_delay": 120
+  },
+  "script_3": {
+    "input_path": "C:\\Users\\jyarrams\\OneDrive - Nutreco Nederland B.V\\Desktop\\Testing\\Iot_security\\Iot_security_1.0.0\\Tracking_online_Devices.xlsx",
+    "download_dir": "~/Downloads",
+    "new_output_path": "C:\\Users\\jyarrams\\OneDrive - Nutreco Nederland B.V\\Desktop\\Testing\\Iot_security\\Iot_security_1.0.0\\Final Execution List.xlsx"
+  }
+}
