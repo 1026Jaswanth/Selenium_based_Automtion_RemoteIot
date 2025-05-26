@@ -1,4 +1,4 @@
-# Execute the script in RemoteIoT for the selected devices
+# Execute the script in RemoteIoT for the selected devices in general
 import os
 import logging
 from datetime import datetime
